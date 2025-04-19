@@ -4,11 +4,11 @@ export default defineAppConfig({
     available: true,
   },
   profile: {
-    name: 'Hugo Richard',
-    job: 'Frontend Architect and Designer',
-    email: 'contact@hrcd.fr',
-    phone: '(+33) 6 21 56 22 18',
-    picture: 'https://avatars.githubusercontent.com/u/71938701?v=4',
+    name: 'Carl Baccus',
+    job: 'DevSecOps Engineer Sr. Stf.',
+    email: 'carlbaccus@sudomail.com',
+    phone: '',
+    picture: 'https://github.com/cjbaccus.png',
   },
   socials: {
     github: 'https://github.com/HugoRCD',
@@ -18,9 +18,10 @@ export default defineAppConfig({
     spotify: 'https://open.spotify.com/user/yuvl0zpp3bpx4hne1ag7huten?si=df7ee2777c0c4fc4',
   },
   seo: {
-    title: 'Canvas a Nuxt portfolio template',
-    description: 'Canvas is a simple but beautiful portfolio template for designers and developers built with Nuxt and Tailwind CSS. Made with ❤️ by HugoRCD',
-    url: 'https://canvas.hrcd.fr',
+    title: 'Carl Baccus.com',
+    description: '',
+    url: 'http://carlbaccus.com',
+    lang: 'en',
   },
   ui: {
     colors: {
